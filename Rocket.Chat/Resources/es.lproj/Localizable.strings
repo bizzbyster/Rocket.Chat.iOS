@@ -1,5 +1,5 @@
 // Global
-"global.ok" = "OK";
+"global.ok" = "OK"; // "OK";
 "global.no" = "No";
 "global.cancel" = "Cancel";
 
